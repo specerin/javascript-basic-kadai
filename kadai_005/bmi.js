@@ -1,6 +1,6 @@
 // 値の代入
-weight = 68;
-height = 1.7;
+let weight = 68;
+let height = 1.7;
 
 // 計算する
 let bmi = weight / (height * height);
